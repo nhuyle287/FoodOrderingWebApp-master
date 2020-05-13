@@ -62,7 +62,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-action="Index">
+                            <a class="nav-link" asp-controller="SanPham" asp-action="Index">
                                 <i class="fas fa-shopping-cart"></i>
                                 Sản phẩm
                             </a>
@@ -70,7 +70,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="products.html">
+                            <a class="nav-link" asp-controller="HoaDon" asp-action="Index">
                                 <i class="fas fa-shopping-cart"></i>
                                 Hóa đơn
                             </a>
@@ -108,9 +108,11 @@
             </div>
 
         </nav>
-        <h1>This is content</h1>
+        
+
         @RenderBody()
-        <h1>/This is content</h1>
+     
+
         <footer class="tm-footer row tm-mt-small">
             <div class="col-12 font-weight-light">
                 <p class="text-center text-white mb-0 px-4 small">
