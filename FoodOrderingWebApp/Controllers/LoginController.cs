@@ -9,13 +9,13 @@ namespace FoodOrderingWebApp.Controllers
 {
     public class LoginController : Controller
     {
-/*        private readonly FoodOrderingWebAppDbContext context;
+       /*private readonly FoodOrderingWebAppDbContext context;
 
         public LoginController(FoodOrderingWebAppDbContext context)
         {
             this.context = context;
-        }*/
-
+        }
+        */
         public IActionResult Index()
         {
             return View();

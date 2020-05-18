@@ -61,6 +61,11 @@ button:focus {
 }
 .tm-block-col {
   margin-bottom: 30px;
+  align-items:center;
+}
+.tm-block-col-hd {
+    margin-bottom: 30px;
+    align-items: center;
 }
 .tm-block {
   padding: 40px;
@@ -159,6 +164,11 @@ button:focus {
   justify-content: space-between;
   margin-left: -20px;
   margin-right: -20px;
+}
+.tm-content-row-hd {
+    justify-content:center;
+    margin-left: -20px;
+    margin-right: -20px;
 }
 .tm-col {
   padding-left: 20px;

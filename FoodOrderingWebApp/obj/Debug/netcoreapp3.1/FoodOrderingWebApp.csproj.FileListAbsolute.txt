@@ -339,3 +339,7 @@ D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrd
 D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\FoodOrderingWebApp.pdb
 D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\FoodOrderingWebApp.genruntimeconfig.cache
 D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\Index.cshtml.g.cs
+D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\Create.cshtml.g.cs
+D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\Delete.cshtml.g.cs
+D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\Details.cshtml.g.cs
+D:\Học tập\Năm 3\HKVI\framework\Đồ án\FoodOrderingWebApp-master\FoodOrderingWebApp\obj\Debug\netcoreapp3.1\Razor\Views\HoaDon\Edit.cshtml.g.cs
